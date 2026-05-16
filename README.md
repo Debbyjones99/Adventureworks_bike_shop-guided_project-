@@ -1,4 +1,5 @@
 # Adventureworks_bike_shop_guided_project
+This dataset contains two years of retail sales transactions used to analyze business performance, customer purchasing behavior, product contribution, geographical sales trends, and revenue growth
 
 ## Project Overview
 
@@ -127,3 +128,42 @@ Key Insights
 * The United States also generated the highest revenue contribution (**$2,902,562**)
 
 
+## Key Findings
+
+* Revenue growth was strong despite incomplete 2022 sales data
+* Product demand and revenue contribution varied significantly across products
+* Quantity sold did not directly correlate with profitability
+* Customer occupation and income level strongly influenced purchasing behavior
+* Geographic concentration showed stronger business performance in specific regions
+* Return rate remained relatively low at **2.2%**, indicating stable operational performance
+
+## Recommendations
+
+* Ensure high-performing products such as **Fender Set – Mountain** are properly stocked to prevent stockouts
+* Introduce loyalty rewards, incentives, or retention programs for high-value customers like **Mr. Maurice Shau**
+* Develop targeted promotions and exclusive benefits for high-income customer segments
+* Improve monitoring of low-performing products against monthly targets
+* Expand marketing efforts in high-performing geographical regions to maximize revenue growth
+* Analyze pricing strategies for high-quantity but lower-revenue products to improve profitability
+
+
+# What This Project Demonstrates
+
+This project demonstrates my ability to:
+
+* Build interactive dashboards in Microsoft Power BI
+* Transform raw sales data into actionable business insights
+* Design and implement star schema data models
+* Create KPIs and performance metrics for business reporting
+* Perform customer segmentation and trend analysis
+* Analyze revenue, profitability, and product performance
+* Communicate business insights through data storytelling and visualization
+* Translate business problems into analytical solutions
+* Deliver executive-level dashboards for decision-making support
+
+## Contact
+
+Open to Data Analyst opportunities.
+
+- Email: deborahjonah06@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deborah-jonah-220210327
