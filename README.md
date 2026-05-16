@@ -1,20 +1,22 @@
 # Adventureworks_bike_shop_guided_project
 This dataset contains two years of retail sales transactions used to analyze business performance, customer purchasing behavior, product contribution, geographical sales trends, and revenue growth
 
-## Project Overview
+## Table of Contents
+- Project Overview  
+- Business Objectives  
+- Dataset  
+- Tools &   Methodology  
+- Executive Dashboard  
+- Product Performance Analysis 
+- Customer Analysis 
+- User Performance  
+- ⁠Retention Analysis 
+- Key Findings  
+- Recommendations  
+- ⁠Project demonstrations 
+- Data Limitation  
+- Contact
 
-Business Objectives
-Dataset
-Tools & Methodology
-Executive Dashboard Overview
-Product & Inventory Overview
-Supplier Performance & Procurement Analytics
-Channel & Customer Insights
-Key Findings
-Recommendations
-⁠Project demonstrations
-Data Limitation
-Contact
 ## Project Overview
 
 This project analyzes two years of retail sales data (1997–1998) using Microsoft Power BI to evaluate customer behavior, product contribution, geographical performance, revenue growth, and business trends.
