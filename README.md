@@ -34,6 +34,9 @@ The project was designed to answer key business questions such as:
 5. Occupation-based purchasing behavior
 6. Return rate impact on revenue
 
+## Dataset
+- <a href= https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/tree/main/dataset>Adventureworks_bike_shop_guided_project</a>
+
 ## Tools & Techniques
 
 * Microsoft Power BI
@@ -44,9 +47,6 @@ The project was designed to answer key business questions such as:
 * Business Intelligence Reporting
 * Trend & Performance Analysis
   
-## Dataset
-- <a href= https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/tree/main/dataset>Adventureworks_bike_shop_guided_project</a>
-
 ## Dashboard Overview
 ### Executive Dashboard
 
