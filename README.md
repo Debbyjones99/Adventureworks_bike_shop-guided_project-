@@ -46,8 +46,9 @@ The project was designed to answer key business questions such as:
 
 ## Dashboard Overview
 ### Executive Dashboard
-<p></p>
+
 This dashboard provides a high-level overview of business performance across the sales period.
+<p></p>
 <img width="662" height="372" alt="Executive_dashboard" src="https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/blob/main/Dashboard_screenshots/adventureworks_exec_dashboard.png" />
 
 Key Metrics
