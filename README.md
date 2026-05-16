@@ -31,8 +31,6 @@ The project was designed to answer key business questions such as:
 5. Occupation-based purchasing behavior
 6. Return rate impact on revenue
 
----
-
 ## Tools & Techniques
 
 * Microsoft Power BI
@@ -42,4 +40,85 @@ The project was designed to answer key business questions such as:
 * Data Visualization
 * Business Intelligence Reporting
 * Trend & Performance Analysis
+  
+## Dataset
+- <a href= https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/tree/main/dataset>Adventureworks_bike_shop_guided_project</a>
 
+# Executive Dashboard
+
+This dashboard provides a high-level overview of business performance across the sales period.
+
+## Key Metrics
+
+* **Total Revenue:** $24.9M
+* **Total Profit:** $10.5M
+* **Total Orders:** 25.5K
+* **Return Rate:** 2.2%
+
+---
+
+## Yearly Performance Insights
+
+Further analysis revealed the following yearly trends:
+
+| Year | Revenue | Profit |
+| ---- | ------- | ------ |
+| 2020 | $6.4M   | $2.6M  |
+| 2021 | $9.3M   | $4.0M  |
+| 2022 | $9.2M   | $3.9M  |
+
+### Key Observations
+
+* Revenue declined slightly by **1.1% in 2022**
+* Orders increased by **10% in 2022**
+* Profit increased by **43.8%** from the starting year to the final sales year
+* Total orders increased by **348.7%**
+* Sales for 2022 ended in June, meaning the dataset only represents half-year performance
+
+---
+
+# Product Performance Analysis
+
+This section evaluates product contribution, sales performance, and target achievement.
+
+## Key Insights
+
+* **Fender Set – Mountain** generated the highest revenue of **$87,041**
+* The product achieved **1,975 orders**
+* Monthly sales targets were not consistently met
+* The highest single-day revenue generated was **$1,802 on 06/06/2022**
+* **Water Bottle – 30 oz** generated:
+
+  * **3,980 orders**
+  * **$39,755 revenue**
+
+### Product Insight
+
+The analysis revealed that **higher order quantity does not always translate to higher revenue generation**, showing the importance of pricing strategy and product value contribution.
+
+---
+
+# Customer Analysis
+
+This section focuses on customer behavior and purchasing patterns.
+
+## Key Insights
+
+* Total unique customers: **17.4K**
+* Revenue per customer: **$1,431**
+* Customers within the **average income level** generated the highest number of orders
+* Customers classified as **Professionals** had the strongest purchasing power by occupation
+* **Mr. Maurice Shau** was identified as the highest purchasing customer
+
+---
+
+# Geographical Analysis
+
+The geographical dashboard highlights regional sales concentration and revenue contribution.
+
+## Key Insights
+
+* The United States recorded the highest number of orders (**2,771**)
+* The United States also generated the highest revenue contribution (**$2,902,562**)
+
+---
