@@ -80,6 +80,7 @@ Key Observations
 ### Product Performance Analysis
 
 This section evaluates product contribution, sales performance, and target achievement.
+<p></p>
 <img width="662" height="370" alt="Product_dashboard" src="https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/blob/main/Dashboard_screenshots/adventureworks_product_dashboard.png" />
 
 Key Insights
@@ -101,6 +102,7 @@ The analysis revealed that **higher order quantity does not always translate to 
 ### Customer Analysis
 
 This section focuses on customer behavior and purchasing patterns.
+<p></p>
 <img width="663" height="371" alt="Customer_dashboard" src="https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/blob/main/Dashboard_screenshots/adventureworks_customers_dashboard.png" />
 
 Key Insights
@@ -116,7 +118,7 @@ Key Insights
 ### Geographical Analysis
 
 The geographical dashboard highlights regional sales concentration and revenue contribution.
-
+<p></p>
 <img width="663" height="371" alt="Customer_dashboard" src="https://github.com/Debbyjones99/Adventureworks_bike_shop-guided_project-/blob/main/Dashboard_screenshots/adventureworks_map_dasboard.png" />
 
 Key Insights
